@@ -1,0 +1,30 @@
+﻿food_name,calories_per_100g,              protein_g,                   carbs_g,                     fat_g
+Rice (cooked),130,2.7,28,0.3
+Chapati,120,3,18,3
+Parotta,300,6,45,10
+Idli,146,4,28,0.4
+Dosa,168,4.5,30,4
+Upma,210,5,30,7
+Egg (boiled),155,13,1.1,11
+Egg omelette,154,11,2,12
+Chicken breast,165,31,0,3.6
+Chicken curry,240,18,6,16
+Fish curry,180,22,4,8
+Paneer,265,18,1.2,20
+Milk,42,3.4,5,1
+Curd,59,3.1,4,3.3
+Dal (lentils),116,9,20,0.4
+Chickpeas (boiled),164,9,27,2.6
+Potato (boiled),87,1.9,20,0.1
+Tomato,18,0.9,3.9,0.2
+Carrot,41,0.9,10,0.2
+Apple,52,0.3,14,0.2
+Banana,89,1.1,23,0.3
+Orange,47,0.9,12,0.1
+Tea (with sugar),43,0,10,0
+Coffee (with sugar),60,0.1,12,1
+Biscuits,450,6,75,15
+Samosa,262,5,32,13
+Vegetable biryani,200,5,30,7
+Chicken biryani,250,15,28,9
+fish fry,275,20,7.5,18
