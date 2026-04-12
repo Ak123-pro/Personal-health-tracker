@@ -1,0 +1,278 @@
+food_name,calories_per_100g,protein_g,carbs_g,fat_g
+Rice (cooked),130,2.7,28.0,0.3
+Chapati,120,3.0,18.0,3.0
+Parotta,300,6.0,45.0,10.0
+Idli,146,4.0,28.0,0.4
+Dosa,168,4.5,30.0,4.0
+Upma,210,5.0,30.0,7.0
+Egg (boiled),155,13.0,1.1,11.0
+Egg omelette,154,11.0,2.0,12.0
+Chicken breast,165,31.0,0.0,3.6
+Chicken curry,240,18.0,6.0,16.0
+Fish curry,180,22.0,4.0,8.0
+Paneer,265,18.0,1.2,20.0
+Milk,42,3.4,5.0,1.0
+Curd,59,3.1,4.0,3.3
+Dal (lentils),116,9.0,20.0,0.4
+Chickpeas (boiled),164,9.0,27.0,2.6
+Potato (boiled),87,1.9,20.0,0.1
+Tomato,18,0.9,3.9,0.2
+Carrot,41,0.9,10.0,0.2
+Apple,52,0.3,14.0,0.2
+Banana,89,1.1,23.0,0.3
+Orange,47,0.9,12.0,0.1
+Tea (with sugar),43,0.0,10.0,0.0
+Coffee (with sugar),60,0.1,12.0,1.0
+Biscuits,450,6.0,75.0,15.0
+Samosa,262,5.0,32.0,13.0
+Vegetable biryani,200,5.0,30.0,7.0
+Chicken biryani,250,15.0,28.0,9.0
+Fish fry,275,20.0,7.5,18.0
+Medu Vada,322,8.0,38.0,15.0
+Pongal,180,5.0,28.0,6.0
+Puttu,170,4.0,35.0,1.5
+Appam,180,4.0,36.0,2.0
+Idiyappam,150,3.0,32.0,1.0
+Kerala Parotta,310,7.0,46.0,11.0
+Pesarattu,190,10.0,28.0,4.0
+Rava Dosa,200,5.0,32.0,6.0
+Onion Uttapam,190,6.0,30.0,5.0
+Tomato Uttapam,175,5.5,28.0,4.5
+Rava Idli,160,5.0,28.0,3.0
+Set Dosa,200,5.0,33.0,5.0
+Neer Dosa,130,3.0,27.0,1.0
+Paniyaram,230,6.0,30.0,9.0
+Kozhukattai,155,3.0,32.0,1.5
+Thattai,430,7.0,60.0,18.0
+Murukku,490,7.0,65.0,22.0
+Ribbon Pakoda,470,8.0,60.0,21.0
+Seedai,460,7.0,62.0,19.0
+Sambar,60,3.5,8.0,1.5
+Rasam,25,1.2,4.0,0.5
+Avial,130,3.0,12.0,7.0
+Kootu,120,5.0,14.0,5.0
+Poriyal (mixed veg),80,2.5,10.0,3.5
+Mor Kuzhambu,70,3.0,7.0,3.0
+Puliyodarai (Tamarind rice),220,4.0,38.0,6.0
+Lemon Rice,200,4.0,35.0,5.0
+Curd Rice,150,4.0,27.0,3.0
+Tomato Rice,210,4.0,37.0,5.5
+Coconut Rice,240,4.0,38.0,8.0
+Bisibelabath,180,6.0,28.0,5.0
+Ven Pongal,220,6.0,32.0,8.0
+Sakkarai Pongal,280,5.0,48.0,8.0
+Payasam (Rice),230,4.0,42.0,6.0
+Kesari,350,4.0,58.0,13.0
+Halwa (Carrot),210,2.5,32.0,8.0
+Kerala Fish Curry,185,22.0,5.0,9.0
+Meen Pollichathu,220,24.0,4.0,12.0
+Prawn Curry,160,18.0,4.0,7.0
+Crab Curry,120,16.0,3.0,5.0
+Beef Curry,250,20.0,5.0,16.0
+Pork Curry,280,18.0,4.0,20.0
+Mutton Curry,260,19.0,4.0,18.0
+Kerala Chicken Curry,255,20.0,5.0,17.0
+Malabari Paratha,290,7.0,43.0,10.0
+Appam with Stew,220,7.0,32.0,7.0
+Puttu with Kadala Curry,310,12.0,48.0,8.0
+Kozhikodan Halwa,380,3.0,62.0,14.0
+Banana Chips,540,2.0,58.0,33.0
+Jackfruit Chips,510,2.0,55.0,30.0
+Tapioca (Kappa) boiled,130,1.5,32.0,0.3
+Tapioca with Fish Curry,200,14.0,30.0,5.0
+Chakka Varatti (Jackfruit jam),280,2.0,65.0,1.0
+Raw Banana Fry,175,2.0,26.0,7.0
+Plantain Stem Stir fry,55,1.5,10.0,1.0
+Ivy Gourd Fry,70,2.0,9.0,3.0
+Bitter Gourd Fry,85,2.5,8.0,4.5
+Drumstick Sambar,75,4.0,10.0,2.0
+Palak Paneer,160,8.0,8.0,10.0
+Butter Chicken,180,20.0,5.0,9.0
+Dal Makhani,180,9.0,22.0,7.0
+Rajma,130,8.0,22.0,1.0
+Aloo Gobi,120,3.0,18.0,4.5
+Pav Bhaji,150,4.0,22.0,5.0
+Poha,180,3.0,35.0,3.5
+Rava (Semolina) cooked,150,4.0,28.0,2.0
+Khichdi,130,5.0,22.0,2.5
+Paneer Tikka,260,18.0,8.0,17.0
+Tandoori Chicken,190,26.0,4.0,8.0
+Naan,300,9.0,52.0,6.0
+Bhatura,310,8.0,48.0,11.0
+Poori,330,7.0,48.0,13.0
+Paratha (plain),200,5.0,33.0,6.0
+Aloo Paratha,240,6.0,38.0,8.0
+Gobhi Paratha,220,6.0,35.0,7.0
+Raita,60,3.0,5.0,3.0
+Lassi (sweet),120,4.0,18.0,4.0
+Chaas (buttermilk),35,2.5,4.0,1.0
+Kadhi,85,3.0,9.0,4.0
+Kheer,150,4.0,26.0,4.0
+Gulab Jamun,380,6.0,68.0,11.0
+Jalebi,450,2.0,77.0,18.0
+Gajar Halwa,200,3.0,34.0,7.0
+Besan Ladoo,460,10.0,62.0,20.0
+Coconut Burfi,420,5.0,58.0,20.0
+Peda,350,7.0,57.0,12.0
+Barfi,380,7.0,60.0,15.0
+Rava Kesari,320,4.0,52.0,11.0
+Mysore Pak,520,8.0,62.0,26.0
+Peanut Chikki,480,16.0,55.0,22.0
+Sesame Chikki,500,12.0,52.0,26.0
+Groundnut (roasted),567,26.0,16.0,49.0
+Cashew nuts,553,18.0,30.0,44.0
+Almonds,579,21.0,22.0,50.0
+Walnuts,654,15.0,14.0,65.0
+Raisins,299,3.0,79.0,0.5
+Dates,277,2.0,75.0,0.2
+Figs (dried),249,3.0,64.0,1.0
+Coconut (fresh),354,3.0,15.0,33.0
+Jackfruit,95,1.7,23.0,0.6
+Mango,60,0.8,15.0,0.4
+Papaya,43,0.5,11.0,0.3
+Guava,68,2.6,14.0,1.0
+Pomegranate,83,1.7,19.0,1.2
+Watermelon,30,0.6,8.0,0.2
+Grapes,69,0.7,18.0,0.2
+Pineapple,50,0.5,13.0,0.1
+Chikoo (Sapota),83,0.4,20.0,1.1
+Amla (Indian gooseberry),44,0.9,10.0,0.6
+Spinach,23,2.9,3.6,0.4
+Brinjal (Eggplant),25,1.0,6.0,0.2
+Okra (Ladies Finger),33,2.0,7.0,0.2
+Ash Gourd,13,0.4,3.0,0.2
+Ridge Gourd,17,0.5,4.0,0.1
+Snake Gourd,18,0.5,4.0,0.2
+Cluster Beans,31,2.6,5.0,0.1
+Curry Leaves,325,6.0,44.0,1.0
+Coriander Leaves,23,2.1,3.7,0.5
+Coconut Milk,230,2.3,5.5,24.0
+Tamarind,239,2.8,63.0,0.6
+Mustard Seeds,508,26.0,28.0,36.0
+Fenugreek Seeds,323,23.0,58.0,6.0
+Urad Dal (split),347,25.0,59.0,1.6
+Moong Dal (split),347,24.0,60.0,1.2
+Toor Dal,343,22.0,62.0,1.5
+Chana Dal,364,22.0,61.0,5.0
+Rajgira (Amaranth),371,14.0,65.0,7.0
+Ragi (Finger Millet),336,7.3,72.0,1.5
+Bajra (Pearl Millet),361,11.0,67.0,5.0
+Jowar (Sorghum),329,11.0,72.0,3.3
+Maize (Corn),86,3.3,19.0,1.2
+Brown Rice (cooked),111,2.6,23.0,0.9
+Whole Wheat Bread,265,9.0,49.0,3.2
+White Bread,265,9.0,50.0,3.2
+Oats (cooked),68,2.4,12.0,1.4
+Cornflakes,357,7.5,84.0,0.4
+Muesli,367,9.0,66.0,7.0
+Puffed Rice (Murmura),402,6.0,89.0,0.5
+Flattened Rice (Poha raw),350,7.0,77.0,1.5
+Vermicelli (cooked),100,3.0,20.0,0.5
+Macaroni (cooked),158,6.0,31.0,1.0
+White Sugar,387,0.0,100.0,0.0
+Jaggery,383,0.4,98.0,0.1
+Honey,304,0.3,82.0,0.0
+Ghee,900,0.1,0.0,100.0
+Butter,717,0.9,0.1,81.0
+Refined Oil (generic),884,0.0,0.0,100.0
+Coconut Oil,862,0.0,0.0,100.0
+Kanji (Rice Porridge),65,1.5,14,0.2
+Kanji with Coconut Milk,120,2,18,4.5
+Keerai Kootu (Spinach lentil),95,5.5,12,2.5
+Vazhaipoo Kootu (Banana flower),85,4,11,2.5
+Sundakkai Vathal Kuzhambu,70,2,9,3
+Puli Kuzhambu (Tamarind gravy),80,2.5,10,3.5
+Vatha Kuzhambu,75,2,9,3.5
+Kara Kuzhambu,90,3,11,4
+Paruppu Usili (Dal crumble stir-fry),175,10,14,8
+Beans Paruppu Usili,160,9,13,7
+Kathirikai Gothsu (Brinjal mash),80,2,10,3.5
+Milagu Kuzhambu (Pepper gravy),65,2,8,3
+Thakkali Kuzhambu (Tomato gravy),60,2,8,2.5
+Keerai Masiyal (Mashed spinach),55,3.5,6,1.5
+Vendakkai Mor Kuzhambu (Okra buttermilk),65,3,7,2.5
+Paruppu (Plain cooked dal),100,7,16,0.5
+Rasam (Pepper),30,1.2,4,0.8
+Tomato Rasam,35,1.5,5,0.8
+Lemon Rasam,30,1,4.5,0.5
+Garlic Rasam,40,1.5,5.5,1
+Drumstick Rasam,35,1.5,4.5,1
+Kootu (Yam),130,4,20,4
+Senai Kizhangu Fry (Yam fry),140,3,20,5.5
+Vazhakai Poriyal (Raw banana stir-fry),120,2,20,4
+Pavakkai Poriyal (Bitter gourd),75,2.5,8,3.5
+Beans Poriyal,60,3,8,2
+Carrot Poriyal,70,2,10,2.5
+Cabbage Poriyal,55,2,7,2
+Beetroot Poriyal,75,2.5,13,2
+Kovakkai Poriyal (Ivy gourd),65,2,9,2.5
+Peerkangai Kootu (Ridge gourd),80,3.5,10,2.5
+Chow Chow Kootu (Chayote),85,4,11,2.5
+Murungakkai Poriyal (Drumstick),55,3,8,1.5
+Nei Choru (Ghee rice),280,4,42,10
+Thayir Sadam (Curd rice),130,4,23,2.5
+Ellu Sadam (Sesame rice),250,6,40,8
+Karivepillai Sadam (Curry leaf rice),225,5,38,7
+Ven Pongal (home style),200,6,30,7.5
+Kara Pongal,215,6,32,8
+Arisi Upma (Rice upma),185,4,32,5
+Rava Pongal,210,6,30,8
+Aval Upma (Poha upma),190,4,34,4.5
+Semiya Upma (Vermicelli upma),195,5,33,5
+Bread Upma,220,6,35,6
+Kara Dosai,175,5,30,5
+Ghee Dosa,220,5,31,9
+Masala Dosa (home),230,6,35,8
+Paper Roast Dosa,185,4.5,32,5.5
+Adai (lentil crepe),180,9,26,5
+Mor Dosa (Buttermilk dosa),130,4,24,2.5
+Oats Dosa,150,6,24,3.5
+Ragi Dosa,140,4,26,2.5
+Wheat Dosa,155,5,27,3
+Mini Idli,140,4,27,0.5
+Kanchipuram Idli,165,5,28,4
+Tatte Idli,150,4.5,27,1
+Sambar Idli,200,7,33,4
+Uthukuli Murukku,480,7,63,22
+Thenga Burfi (Coconut burfi),400,4,55,20
+Nei Urundai (Ghee balls),450,8,60,22
+Ellu Urundai (Sesame balls),430,10,55,20
+Kozhukattai (Savory),140,4,25,3
+Sweet Kozhukattai,175,3,35,3.5
+Modak (Rice),160,3,32,2.5
+Suzhiyam,280,6,42,10
+Adhirasam,370,4,62,12
+Aval Kesari,290,3,50,9
+Paal Payasam,160,4,28,4
+Aval Payasam,185,4,33,4.5
+Semiya Payasam,190,5,34,5
+Paruppu Payasam,200,7,36,5
+Moong Dal Payasam,195,8,34,4.5
+Coconut Payasam,220,3,35,8
+Thenga Choru (Coconut rice home),235,4,37,8.5
+Vengaya Sambar (Onion sambar),65,3.5,8.5,1.5
+Tomato Sambar,60,3,8,1.5
+Arachuvitta Sambar (ground sambar),80,4,10,2.5
+Hotel Style Sambar,70,3.5,9,2
+Mixed Vegetable Sambar,72,4,10,2
+Kathirikai Sambar (Brinjal sambar),68,3.5,9,2
+Kollu Rasam (Horsegram rasam),45,2.5,6,1
+Kollu Kootu,120,7,16,3.5
+Horsegram Sundal,160,10,24,2.5
+Kondakadalai Sundal (Chickpea),170,9,26,3
+Pattani Sundal (Green peas),140,7,22,2
+Verkadalai Sundal (Peanut),280,13,20,18
+Kadala Curry (Kerala black chickpea),165,8,24,4.5
+Pazham Pori (Banana fritters),210,2,32,9
+Unniyappam,250,4,38,10
+Ela Ada,190,3,36,4
+Chakka Ada (Jackfruit ada),210,3,40,4
+Koova Puttu (Arrowroot puttu),160,2.5,35,1.5
+Cherupayar Curry (Green moong),130,8,18,3
+Vanpayar Curry (Red cowpea),150,9,22,2.5
+Muringakka Thoran (Drumstick stir fry),60,3,7,2.5
+Cheera Thoran (Spinach stir fry),65,4,6,3
+Ethakka Thoran (Raw banana stir fry),110,1.5,19,3.5
+Pavakka Thoran (Bitter gourd),80,3,8,4
+Kumbalanga Moru Curry (Ash gourd),60,2.5,7,2.5
+Nadan Beef Fry,290,22,5,20
